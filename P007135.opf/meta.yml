@@ -1,5 +1,7 @@
 id: P007135
 initial_creation_type: ocr
+created_at: 1/04/2020
+last_modified_at: 25/11/2021
 source_metadata:
   id: bdr:W30292
   title: བཀྲ་ཤིས་ཚེ་རིང་མའི་སྒྲུབ་སྐོར་སོགས
@@ -11,10 +13,3 @@ source_metadata:
       volume_number: 1
       total_pages: 584
       base_file: v001.txt
-ebook_metadata:
-  title: བཀྲ་ཤིས་ཚེ་རིང་མའི་སྒྲུབ་སྐོར་སོགས
-  author: ''
-  sku: P007135
-  cover: cover.jpg
-  layers:
-  - pagination
